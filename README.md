@@ -1,4 +1,4 @@
-# 📊 Age Category Predictor: Lifestyle & Financial Analysis
+# Age Category Predictor: Lifestyle & Financial Analysis
 
 ## Overview
 This project implements an end-to-end Machine Learning pipeline to predict an individual's age category based on specific lifestyle and financial indicators. 
